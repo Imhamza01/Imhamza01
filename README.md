@@ -1,7 +1,17 @@
-# 💫 About Me:
-Hi, I'm Muhamad Hamza Qurashi, a passionate developer with expertise in a wide range of programming languages and technologies including C, C++, C#, ASP.NET, HTML, CSS, Java, JavaScript, MySQL, Python, and Networking. I have a solid foundation in Object-Oriented Programming (OOP) and Data Structures, and I enjoy working on both front-end and back-end projects.<br><br>I'm particularly proud of the various management projects I've developed in C++, a comprehensive University Management System in Java, and multiple websites that I've created. My goal as a developer is to revolutionize the world, especially Pakistan, by introducing innovative and impactful products.<br><br>In addition to coding, I have a keen interest in going to the gym, firing, and content creation. I bring this same energy and focus to my professional pursuits, which include a 2-month internship as a Lead Collector at SSS Group, a Game Development Internship, and an ongoing MERN internship at Fitwell Hub.<br><br>I am always eager to learn and grow as a developer and am excited to contribute to projects that push the boundaries of what's possible.<br><br>
+#### 💫 About Me
+Hi, I'm **Muhamad Hamza Qurashi**! 
 
+🚀 I’m passionate about development and love working on both front-end and back-end projects.
 
+🏆 Proud of my work on various management systems and websites.
+
+🌟 My goal is to innovate and make a global impact, especially in Pakistan.
+
+💪 Outside of coding, I’m into gym workouts, firing, and content creation.
+
+🔧 Currently, I’m gaining experience through a MERN internship at Fitwell Hub.
+
+👨‍💻 Always excited to learn and tackle new challenges!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Hamza Qurashi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thehamza_1) 
 
