@@ -7,7 +7,7 @@ Hi, I'm **Muhamad Hamza Qurashi**!
 
 🌟 My goal is to innovate and make a global impact, especially in Pakistan.
 
-💪 Outside of coding, I’m into gym workouts, firing, and content creation.
+💪 Outside of coding, I’m into gym workouts and content creation.
 
 🔧 Currently, I’m gaining experience through a MERN internship at Fitwell Hub.
 
